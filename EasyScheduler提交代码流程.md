@@ -7,7 +7,7 @@
 
 * 把自己仓库clone到本地
   
-    `git clone https://github.com/**/EasyScheduler.git`
+    `git clone https://github.com/analysys/EasyScheduler.git`
 
 *  添加远端仓库地址，命名为upstream
 
